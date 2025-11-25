@@ -1,0 +1,22 @@
+INSIGHTS: 
+1. West region generates the highest sales overall.
+From your data:
+West: $725,457
+Followed by East and Central
+This indicates strong customer demand or better-performing markets in the Western region.
+
+2. Technology is the top-selling category.
+Total sales by category:
+Technology: $836,154 (Highest)
+Furniture and Office Supplies follow closely
+This shows that tech products contribute the most revenue.
+
+3. November is the strongest sales month.
+Monthly sales trend shows:
+November 2017 has the highest sales: $118,447
+December months also perform very well
+This indicates a strong holiday-season sales pattern.
+
+4. Consistent year-end demand spikes.
+Across 2014–2017,
+months like September, November, and December frequently appear among the top-selling months, suggesting seasonality and recurring demand patterns.
